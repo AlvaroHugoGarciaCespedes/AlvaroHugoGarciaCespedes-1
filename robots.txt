@@ -1,6 +1,6 @@
-Agente de usuario: Mediapartners-Google
-Rechazar:
+User-agent: Mediapartners-Google
+Disallow: 
 
-Agente de usuario: *
-No permitir: /buscar
-Permitir: /
+User-agent: *
+Disallow: /search
+Allow: /
