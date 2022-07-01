@@ -4,3 +4,5 @@ Disallow:
 User-agent: *
 Disallow: /search
 Allow: /
+
+Sitemap: https://jolly-pasca-5f44c2.netlify.app/sitemap.xml
